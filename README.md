@@ -17,21 +17,21 @@
 ### For Style Page Using Bootstrap For Menu But Other Style Cooded manually 
       
 # 1.Login And Register Index Page
-<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/static/img/register.png" width="100%">   
-<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/static/img/login.png" width="100%"> 
+<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/img/register.png" width="100%">   
+<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/img/login.png" width="100%"> 
 
 ---
 
 # 2.Index Page 
-<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/static/img/first_home.png" width="100%"> 
+<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/img/first_home.png" width="100%"> 
 
 
 ---
 
 # 3. Add Task 
-<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/static/img/add_task.png" width="100%">
-<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/static/img/task_added.png" width="100%"> 
+<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/img/add_task.png" width="100%">
+<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/img/task_added.png" width="100%"> 
 
 
 # 4. History Page 
-<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/static/img/history.png" width="100%"> 
+<img src="https://github.com/Ahmadkhan02/Todo-app-flask/blob/main/img/history.png" width="100%"> 
